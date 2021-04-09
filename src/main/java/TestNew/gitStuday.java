@@ -8,7 +8,7 @@ public class gitStuday {
 
         
         // I added two line
-// I added from Github
+
         //yes, added 
     }
 }
